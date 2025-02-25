@@ -132,7 +132,7 @@ development and production instances.
 1.  **Stopping the production instance:** An error message appeared,
     indicating a lack of authorization due to policy restrictions.
     <figure>
-<img src="Images/failinstance.png" style="width:5.5in;height:2.52361in"
+<img src="Images/failInstance.png" style="width:5.5in;height:2.52361in"
 alt="Production" />
 <figcaption>
 <p>
